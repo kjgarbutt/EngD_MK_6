@@ -25,6 +25,7 @@
 .metadata
 bin/
 out/
+production/
 tmp/
 *.tmp
 *.bak
